@@ -1,0 +1,993 @@
+While Loop  Count is: 0
+While Loop  Count is: 1
+While Loop  Count is: 2
+While Loop  Count is: 3
+While Loop  Count is: 4
+While Loop:  10
+While Loop:  8
+While Loop:  6
+While Loop:  4
+While Loop:  2
+While Loop:  1
+While Loop:  2
+While Loop:  3
+While Loop:  4
+While Loop:  5
+Inside loop
+Inside loop
+Inside loop
+Inside else block
+Conditional: x is greater than 5
+Conditional: y is not greater than 5
+Conditional: z is greater than 5 but not greater than 10
+Conditional: a is greater than 5
+Conditional: a is also less than 15
+Conditional:  Adult
+Conditional: The temperature is comfortable
+Conditional: Name contains 'A'
+Conditional: The list is empty
+Ternary operator:  Minor
+Ternary operator:  10
+Ternary operator:  Stay inside
+Ternary operator:  Odd
+Generator Function:  0
+Generator Function:  1
+Generator Function:  2
+Generator Function:  3
+Generator Function:  4
+Generator Expression:  0
+Generator Expression:  1
+Generator Expression:  4
+Generator Expression:  9
+Generator Expression:  16
+Generator Expression:  Little bunny Foo Foo
+Generator Expression:  I don't want to see you
+Generator Expression:  Scooping up the field mice
+Generator Expression:  And BOPPING them on the head
+Generator Yield From:  0
+Generator Yield From:  1
+Generator Yield From:  2
+Generator Yield From:  3
+Generator Yield From:  4
+Generator Yield From:  5
+Class: Dog:  Buddy
+Instance:  Woof!
+__str__ Person(name='Alice', age=30)
+__str__ Person(name='Alice', age=30)
+__repr__ MyClass(2, 3)
+Inheritance and method overriding  Buddy
+Inheritance and method overriding  Golden Retriever
+Inheritance and method overriding  Woof!
+Try and except  Error: division by zero
+Blah blah blah 1234567890
+Try, except, else and finally: Closing the file.
+Try, except, else and finally: The result is 5.0
+Try, except, else and finally: Execution completed
+Try, except, else and finally: Cannot divide by zero!
+Try, except, else and finally: Execution completed
+Custom Exception: Error: Custom Exception: Value cannot be negative
+5.0
+3.141592653589793
+0.49999999999999994
+0.7095260212735663
+4
+Random shuffle:  [1, 4, 3, 2, 5]
+Current date and time:  2025-05-22 14:23:19.974354
+Current date:  2025 5 22
+2025-05-22 14:23:19
+Current working directory:  C:\Users\Susan\OneDrive\Documents\Python\LinkedInQuiz
+Python version:  3.11.3 (tags/v3.11.3:f3909b8, Apr  4 2023, 23:49:59) [MSC v.1934 64 bit (AMD64)]
+OS platform:  win32
+The current directory is: C:\Users\Susan\OneDrive\Documents\Python\LinkedInQuiz
+Numpy array:  [1 2 3]
+File I/O: File written successfully.
+File I/O: File appended successfully.
+File I/O: File content:
+{'Hello good sir and madam.\nThis is a new line.\nThis is another line.\nThis is an appended line.\n'}
+File I/O: Line:  Hello good sir and madam.
+File I/O: Line:  This is a new line.
+File I/O: Line:  This is another line.
+File I/O: Line:  This is an appended line.
+File I/O: All lines in a list
+Hello good sir and madam.
+This is a new line.
+This is another line.
+This is an appended line.
+Original list:  [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+Nested list comprehensions:  [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Nested list, list of squares: [[1, 4, 9], [16, 25, 36], [49, 64, 81]]
+Nested list, filter even numbers: [[2], [4, 6], [8]]
+Nested list comprehensions:  [2, 4, 6, 8]
+PS C:\Users\Susan\OneDrive\Documents\Python\LinkedInQuiz> & "C:/Program Files/Python311/python.exe" c:/Users/Susan/OneDrive/Documents/Python/LinkedInQuiz/LinkedInQuiz.py
+Mutable Example (list):  [1, 2, 3, 4]
+I always get A++ hello
+Immutable Example (string):  hello world
+Tuple example (immutable):  (1, 'hello', 3.14)
+List example (mutable):  [1, 'hello', 3.14]
+List example (mutable):  [1, 'hello', 3.14, True]
+Dictionary example (mutable):  {'name': 'Alice', 'age': 30, 'city': 'New York'}
+Dictionary example (mutable):  30
+Sets example (mutable):  {1, 2, 3}
+Sets example (mutable):  {1, 2, 3, 4}
+List comprehension:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+List comprehension:  [6, 7, 8, 9]
+List comprehension:  [(1, 3), (1, 4), (2, 3), (2, 1), (2, 4), (3, 1), (3, 4)]
+Dictionary comprehension:  {0: 10, 1: 11, 2: 12, 3: 13}
+Dictionary comprehension:  {0: 10, 1: 11, 2: 12, 3: 13}
+Dictionary comprehension:  {(0, 0): 0, (0, 1): 1, (1, 0): 1, (1, 1): 2}
+Set comprehension:  {1, 4, 9, 16, 25}
+Set comprehension:  {2, 4, 6, 8, 10}
+Set comprehension, word set:  {'and', 'one', 'two', 'hat', 'in', 'two.', 'cat', 'had', 'sidekicks,', 'the', 'thing'}
+Set comprehension:  {3}
+Hello, Alice!
+Good morning, Bob!
+Charlie is 30 years old and lives in New York.
+David is 25 years old and lives in Los Angeles.
+*args Add numbers:  6
+*args Add numbers:  30
+**kwargs Keyword Arguments:  name: Eve
+**kwargs Keyword Arguments:  age: 28
+**kwargs Keyword Arguments:  occupation: Engineer
+Lambda function, add:  8
+Lambda function, is even:  True
+Lambda function, C to F:  32.0
+Closures:  50
+Closures:  30
+Scopes:  30 20 10
+For Loop: apple
+For Loop: banana
+For Loop: cherry
+For Loop: H
+For Loop: e
+For Loop: l
+For Loop: l
+For Loop: o
+For Loop: 0
+For Loop: 1
+For Loop: 2
+For Loop: 3
+For Loop: 4
+For Loop  Index: 0, Color: red
+For Loop  Index: 1, Color: green
+For Loop  Index: 2, Color: blue
+While Loop  Count is: 0
+While Loop  Count is: 1
+While Loop  Count is: 2
+While Loop  Count is: 3
+While Loop  Count is: 4
+While Loop:  10
+While Loop:  8
+While Loop:  6
+While Loop:  4
+While Loop:  2
+While Loop:  1
+While Loop:  2
+While Loop:  3
+While Loop:  4
+While Loop:  5
+Inside loop
+Inside loop
+Inside loop
+Inside else block
+Conditional: x is greater than 5
+Conditional: y is not greater than 5
+Conditional: z is greater than 5 but not greater than 10
+Conditional: a is greater than 5
+Conditional: a is also less than 15
+Conditional:  Adult
+Conditional: The temperature is comfortable
+Conditional: Name contains 'A'
+Conditional: The list is empty
+Ternary operator:  Minor
+Ternary operator:  10
+Ternary operator:  Stay inside
+Ternary operator:  Odd
+Generator Function:  0
+Generator Function:  1
+Generator Function:  2
+Generator Function:  3
+Generator Function:  4
+Generator Expression:  0
+Generator Expression:  1
+Generator Expression:  4
+Generator Expression:  9
+Generator Expression:  16
+Generator Expression:  Little bunny Foo Foo
+Generator Expression:  I don't want to see you
+Generator Expression:  Scooping up the field mice
+Generator Expression:  And BOPPING them on the head
+Generator Yield From:  0
+Generator Yield From:  1
+Generator Yield From:  2
+Generator Yield From:  3
+Generator Yield From:  4
+Generator Yield From:  5
+Class: Dog:  Buddy
+Instance:  Woof!
+__str__ Person(name='Alice', age=30)
+__str__ Person(name='Alice', age=30)
+__repr__ MyClass(2, 3)
+Inheritance and method overriding  Buddy
+Inheritance and method overriding  Golden Retriever
+Inheritance and method overriding  Woof!
+Try and except  Error: division by zero
+Blah blah blah 1234567890
+Try, except, else and finally: Closing the file.
+Try, except, else and finally: The result is 5.0
+Try, except, else and finally: Execution completed
+Try, except, else and finally: Cannot divide by zero!
+Try, except, else and finally: Execution completed
+Custom Exception: Error: Custom Exception: Value cannot be negative
+5.0
+3.141592653589793
+0.49999999999999994
+0.6062822247339393
+1
+Random shuffle:  [2, 4, 5, 1, 3]
+Current date and time:  2025-05-22 14:24:00.791981
+Current date:  2025 5 22
+2025-05-22 14:24:00
+Current working directory:  C:\Users\Susan\OneDrive\Documents\Python\LinkedInQuiz
+Python version:  3.11.3 (tags/v3.11.3:f3909b8, Apr  4 2023, 23:49:59) [MSC v.1934 64 bit (AMD64)]
+OS platform:  win32
+The current directory is: C:\Users\Susan\OneDrive\Documents\Python\LinkedInQuiz
+Numpy array:  [1 2 3]
+File I/O: File written successfully.
+File I/O: File appended successfully.
+File I/O: File content:
+{'Hello good sir and madam.\nThis is a new line.\nThis is another line.\nThis is an appended line.\n'}
+File I/O: Line:  Hello good sir and madam.
+File I/O: Line:  This is a new line.
+File I/O: Line:  This is another line.
+File I/O: Line:  This is an appended line.
+File I/O: All lines in a list
+Hello good sir and madam.
+This is a new line.
+This is another line.
+This is an appended line.
+Original list:  [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+Nested list comprehensions:  [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Nested list, list of squares: [[1, 4, 9], [16, 25, 36], [49, 64, 81]]
+Nested list, filter even numbers: [[2], [4, 6], [8]]
+Nested list comprehensions:  [2, 4, 6, 8]
+PS C:\Users\Susan\OneDrive\Documents\Python\LinkedInQuiz> & "C:/Program Files/Python311/python.exe" c:/Users/Susan/OneDrive/Documents/Python/LinkedInQuiz/LinkedInQuiz.py
+Mutable Example (list):  [1, 2, 3, 4]
+I always get A++ hello
+Immutable Example (string):  hello world
+Tuple example (immutable):  (1, 'hello', 3.14)
+List example (mutable):  [1, 'hello', 3.14]
+List example (mutable):  [1, 'hello', 3.14, True]
+Dictionary example (mutable):  {'name': 'Alice', 'age': 30, 'city': 'New York'}
+Dictionary example (mutable):  30
+Sets example (mutable):  {1, 2, 3}
+Sets example (mutable):  {1, 2, 3, 4}
+List comprehension:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+List comprehension:  [6, 7, 8, 9]
+List comprehension:  [(1, 3), (1, 4), (2, 3), (2, 1), (2, 4), (3, 1), (3, 4)]
+Dictionary comprehension:  {0: 10, 1: 11, 2: 12, 3: 13}
+Dictionary comprehension:  {0: 10, 1: 11, 2: 12, 3: 13}
+Dictionary comprehension:  {(0, 0): 0, (0, 1): 1, (1, 0): 1, (1, 1): 2}
+Set comprehension:  {1, 4, 9, 16, 25}
+Set comprehension:  {2, 4, 6, 8, 10}
+Set comprehension, word set:  {'thing', 'the', 'hat', 'two', 'sidekicks,', 'one', 'in', 'had', 
+'two.', 'and', 'cat'}
+Set comprehension:  {3}
+Hello, Alice!
+Good morning, Bob!
+Charlie is 30 years old and lives in New York.
+David is 25 years old and lives in Los Angeles.
+*args Add numbers:  6
+*args Add numbers:  30
+**kwargs Keyword Arguments:  name: Eve
+**kwargs Keyword Arguments:  age: 28
+**kwargs Keyword Arguments:  occupation: Engineer
+Lambda function, add:  8
+Lambda function, is even:  True
+Lambda function, C to F:  32.0
+Closures:  50
+Closures:  30
+Scopes:  30 20 10
+For Loop: apple
+For Loop: banana
+For Loop: cherry
+For Loop: H
+For Loop: e
+For Loop: l
+For Loop: l
+For Loop: o
+For Loop: 0
+For Loop: 1
+For Loop: 2
+For Loop: 3
+For Loop: 4
+For Loop  Index: 0, Color: red
+For Loop  Index: 1, Color: green
+For Loop  Index: 2, Color: blue
+While Loop  Count is: 0
+While Loop  Count is: 1
+While Loop  Count is: 2
+While Loop  Count is: 3
+While Loop  Count is: 4
+While Loop:  10
+While Loop:  8
+While Loop:  6
+While Loop:  4
+While Loop:  2
+While Loop:  1
+While Loop:  2
+While Loop:  3
+While Loop:  4
+While Loop:  5
+Inside loop
+Inside loop
+Inside loop
+Inside else block
+Conditional: x is greater than 5
+Conditional: y is not greater than 5
+Conditional: z is greater than 5 but not greater than 10
+Conditional: a is greater than 5
+Conditional: a is also less than 15
+Conditional:  Adult
+Conditional: The temperature is comfortable
+Conditional: Name contains 'A'
+Conditional: The list is empty
+Ternary operator:  Minor
+Ternary operator:  10
+Ternary operator:  Stay inside
+Ternary operator:  Odd
+Generator Function:  0
+Generator Function:  1
+Generator Function:  2
+Generator Function:  3
+Generator Function:  4
+Generator Expression:  0
+Generator Expression:  1
+Generator Expression:  4
+Generator Expression:  9
+Generator Expression:  16
+Generator Expression:  Little bunny Foo Foo
+Generator Expression:  I don't want to see you
+Generator Expression:  Scooping up the field mice
+Generator Expression:  And BOPPING them on the head
+Generator Yield From:  0
+Generator Yield From:  1
+Generator Yield From:  2
+Generator Yield From:  3
+Generator Yield From:  4
+Generator Yield From:  5
+Class: Dog:  Buddy
+Instance:  Woof!
+__str__ Person(name='Alice', age=30)
+__str__ Person(name='Alice', age=30)
+__repr__ MyClass(2, 3)
+Inheritance and method overriding  Buddy
+Inheritance and method overriding  Golden Retriever
+Inheritance and method overriding  Woof!
+Try and except  Error: division by zero
+Blah blah blah 1234567890
+Try, except, else and finally: Closing the file.
+Try, except, else and finally: The result is 5.0
+Try, except, else and finally: Execution completed
+Try, except, else and finally: Cannot divide by zero!
+Try, except, else and finally: Execution completed
+Custom Exception: Error: Custom Exception: Value cannot be negative
+5.0
+3.141592653589793
+0.49999999999999994
+0.22384804474664965
+5
+Random shuffle:  [3, 1, 5, 4, 2]
+Current date and time:  2025-05-22 14:26:10.495575
+Current date:  2025 5 22
+2025-05-22 14:26:10
+Current working directory:  C:\Users\Susan\OneDrive\Documents\Python\LinkedInQuiz
+Python version:  3.11.3 (tags/v3.11.3:f3909b8, Apr  4 2023, 23:49:59) [MSC v.1934 64 bit (AMD64)]
+OS platform:  win32
+The current directory is: C:\Users\Susan\OneDrive\Documents\Python\LinkedInQuiz
+Numpy array:  [1 2 3]
+File I/O: File written successfully.
+File I/O: File appended successfully.
+File I/O: File content:
+{'Hello good sir and madam.\nThis is a new line.\nThis is another line.\nThis is an appended line.\n'}
+File I/O: Line:  Hello good sir and madam.
+File I/O: Line:  This is a new line.
+File I/O: Line:  This is another line.
+File I/O: Line:  This is an appended line.
+File I/O: All lines in a list
+Hello good sir and madam.
+This is a new line.
+This is another line.
+This is an appended line.
+Original list:  [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+Nested list comprehensions:  [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Nested list, list of squares: [[1, 4, 9], [16, 25, 36], [49, 64, 81]]
+Nested list, filter even numbers: [[2], [4, 6], [8]]
+Nested list comprehensions:  [2, 4, 6, 8]
+Generator:  1
+Generator:  2
+Generator:  3
+Generator:  4
+Generator:  5
+PS C:\Users\Susan\OneDrive\Documents\Python\LinkedInQuiz> & "C:/Program Files/Python311/python.exe" c:/Users/Susan/OneDrive/Documents/Python/LinkedInQuiz/LinkedInQuiz.py
+Mutable Example (list):  [1, 2, 3, 4]
+I always get A++ hello
+Immutable Example (string):  hello world
+Tuple example (immutable):  (1, 'hello', 3.14)
+List example (mutable):  [1, 'hello', 3.14]
+List example (mutable):  [1, 'hello', 3.14, True]
+Dictionary example (mutable):  {'name': 'Alice', 'age': 30, 'city': 'New York'}
+Dictionary example (mutable):  30
+Sets example (mutable):  {1, 2, 3}
+Sets example (mutable):  {1, 2, 3, 4}
+List comprehension:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+List comprehension:  [6, 7, 8, 9]
+List comprehension:  [(1, 3), (1, 4), (2, 3), (2, 1), (2, 4), (3, 1), (3, 4)]
+Dictionary comprehension:  {0: 10, 1: 11, 2: 12, 3: 13}
+Dictionary comprehension:  {0: 10, 1: 11, 2: 12, 3: 13}
+Dictionary comprehension:  {(0, 0): 0, (0, 1): 1, (1, 0): 1, (1, 1): 2}
+Set comprehension:  {1, 4, 9, 16, 25}
+Set comprehension:  {2, 4, 6, 8, 10}
+Set comprehension, word set:  {'and', 'in', 'one', 'sidekicks,', 'hat', 'had', 'thing', 'two', 
+'cat', 'two.', 'the'}
+Set comprehension:  {3}
+Hello, Alice!
+Good morning, Bob!
+Charlie is 30 years old and lives in New York.
+David is 25 years old and lives in Los Angeles.
+*args Add numbers:  6
+*args Add numbers:  30
+**kwargs Keyword Arguments:  name: Eve
+**kwargs Keyword Arguments:  age: 28
+**kwargs Keyword Arguments:  occupation: Engineer
+Lambda function, add:  8
+Lambda function, is even:  True
+Lambda function, C to F:  32.0
+Closures:  50
+Closures:  30
+Scopes:  30 20 10
+For Loop: apple
+For Loop: banana
+For Loop: cherry
+For Loop: H
+For Loop: e
+For Loop: l
+For Loop: l
+For Loop: o
+For Loop: 0
+For Loop: 1
+For Loop: 2
+For Loop: 3
+For Loop: 4
+For Loop  Index: 0, Color: red
+For Loop  Index: 1, Color: green
+For Loop  Index: 2, Color: blue
+While Loop  Count is: 0
+While Loop  Count is: 1
+While Loop  Count is: 2
+While Loop  Count is: 3
+While Loop  Count is: 4
+While Loop:  10
+While Loop:  8
+While Loop:  6
+While Loop:  4
+While Loop:  2
+While Loop:  1
+While Loop:  2
+While Loop:  3
+While Loop:  4
+While Loop:  5
+Inside loop
+Inside loop
+Inside loop
+Inside else block
+Conditional: x is greater than 5
+Conditional: y is not greater than 5
+Conditional: z is greater than 5 but not greater than 10
+Conditional: a is greater than 5
+Conditional: a is also less than 15
+Conditional:  Adult
+Conditional: The temperature is comfortable
+Conditional: Name contains 'A'
+Conditional: The list is empty
+Ternary operator:  Minor
+Ternary operator:  10
+Ternary operator:  Stay inside
+Ternary operator:  Odd
+Generator Function:  0
+Generator Function:  1
+Generator Function:  2
+Generator Function:  3
+Generator Function:  4
+Generator Expression:  0
+Generator Expression:  1
+Generator Expression:  4
+Generator Expression:  9
+Generator Expression:  16
+Generator Expression:  Little bunny Foo Foo
+Generator Expression:  I don't want to see you
+Generator Expression:  Scooping up the field mice
+Generator Expression:  And BOPPING them on the head
+Generator Yield From:  0
+Generator Yield From:  1
+Generator Yield From:  2
+Generator Yield From:  3
+Generator Yield From:  4
+Generator Yield From:  5
+Class: Dog:  Buddy
+Instance:  Woof!
+__str__ Person(name='Alice', age=30)
+__str__ Person(name='Alice', age=30)
+__repr__ MyClass(2, 3)
+Inheritance and method overriding  Buddy
+Inheritance and method overriding  Golden Retriever
+Inheritance and method overriding  Woof!
+Try and except  Error: division by zero
+Blah blah blah 1234567890
+Try, except, else and finally: Closing the file.
+Try, except, else and finally: The result is 5.0
+Try, except, else and finally: Execution completed
+Try, except, else and finally: Cannot divide by zero!
+Try, except, else and finally: Execution completed
+Custom Exception: Error: Custom Exception: Value cannot be negative
+5.0
+3.141592653589793
+0.49999999999999994
+0.5275258812210272
+8
+Random shuffle:  [3, 4, 1, 2, 5]
+Current date and time:  2025-05-22 14:26:37.327573
+Current date:  2025 5 22
+2025-05-22 14:26:37
+Current working directory:  C:\Users\Susan\OneDrive\Documents\Python\LinkedInQuiz
+Python version:  3.11.3 (tags/v3.11.3:f3909b8, Apr  4 2023, 23:49:59) [MSC v.1934 64 bit (AMD64)]
+OS platform:  win32
+The current directory is: C:\Users\Susan\OneDrive\Documents\Python\LinkedInQuiz
+Numpy array:  [1 2 3]
+File I/O: File written successfully.
+File I/O: File appended successfully.
+File I/O: File content:
+{'Hello good sir and madam.\nThis is a new line.\nThis is another line.\nThis is an appended line.\n'}
+File I/O: Line:  Hello good sir and madam.
+File I/O: Line:  This is a new line.
+File I/O: Line:  This is another line.
+File I/O: Line:  This is an appended line.
+File I/O: All lines in a list
+Hello good sir and madam.
+This is a new line.
+This is another line.
+This is an appended line.
+Original list:  [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+Nested list comprehensions:  [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Nested list, list of squares: [[1, 4, 9], [16, 25, 36], [49, 64, 81]]
+Nested list, filter even numbers: [[2], [4, 6], [8]]
+Nested list comprehensions:  [2, 4, 6, 8]
+Counter Generator:  1
+Counter Generator:  2
+Counter Generator:  3
+Counter Generator:  4
+Counter Generator:  5
+Counter Generator:  6
+Counter Generator:  7
+Counter Generator:  8
+Counter Generator:  9
+Counter Generator:  10
+Counter Generator:  11
+Counter Generator:  12
+Counter Generator:  13
+Counter Generator:  14
+Counter Generator:  15
+Counter Generator:  16
+Counter Generator:  17
+Counter Generator:  18
+Counter Generator:  19
+Counter Generator:  20
+Counter Generator:  21
+Counter Generator:  22
+Counter Generator:  23
+Counter Generator:  24
+Counter Generator:  25
+Counter Generator:  26
+Counter Generator:  27
+Counter Generator:  28
+Counter Generator:  29
+Counter Generator:  30
+Counter Generator:  31
+Counter Generator:  32
+Counter Generator:  33
+Counter Generator:  34
+Counter Generator:  35
+Counter Generator:  36
+Counter Generator:  37
+Counter Generator:  38
+Counter Generator:  39
+Counter Generator:  40
+Counter Generator:  41
+Counter Generator:  42
+Counter Generator:  43
+Counter Generator:  44
+Counter Generator:  45
+Counter Generator:  46
+Counter Generator:  47
+Counter Generator:  48
+Counter Generator:  49
+Counter Generator:  50
+Counter Generator:  51
+Counter Generator:  52
+Counter Generator:  53
+Counter Generator:  54
+Counter Generator:  55
+Counter Generator:  56
+Counter Generator:  57
+Counter Generator:  58
+Counter Generator:  59
+Counter Generator:  60
+Counter Generator:  61
+Counter Generator:  62
+Counter Generator:  63
+Counter Generator:  64
+Counter Generator:  65
+Counter Generator:  66
+Counter Generator:  67
+Counter Generator:  68
+Counter Generator:  69
+Counter Generator:  70
+Counter Generator:  71
+Counter Generator:  72
+Counter Generator:  73
+Counter Generator:  74
+Counter Generator:  75
+Counter Generator:  76
+Counter Generator:  77
+Counter Generator:  78
+Counter Generator:  79
+Counter Generator:  80
+Counter Generator:  81
+Counter Generator:  82
+Counter Generator:  83
+Counter Generator:  84
+Counter Generator:  85
+Counter Generator:  86
+Counter Generator:  87
+Counter Generator:  88
+Counter Generator:  89
+Counter Generator:  90
+Counter Generator:  91
+Counter Generator:  92
+Counter Generator:  93
+Counter Generator:  94
+Counter Generator:  95
+Counter Generator:  96
+Counter Generator:  97
+Counter Generator:  98
+Counter Generator:  99
+Counter Generator:  100
+Counter Generator:  101
+PS C:\Users\Susan\OneDrive\Documents\Python\LinkedInQuiz> & "C:/Program Files/Python311/python.exe" c:/Users/Susan/OneDrive/Documents/Python/LinkedInQuiz/LinkedInQuiz.py
+Mutable Example (list):  [1, 2, 3, 4]
+I always get A++ hello
+Immutable Example (string):  hello world
+Tuple example (immutable):  (1, 'hello', 3.14)
+List example (mutable):  [1, 'hello', 3.14]
+List example (mutable):  [1, 'hello', 3.14, True]
+Dictionary example (mutable):  {'name': 'Alice', 'age': 30, 'city': 'New York'}
+Dictionary example (mutable):  30
+Sets example (mutable):  {1, 2, 3}
+Sets example (mutable):  {1, 2, 3, 4}
+List comprehension:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+List comprehension:  [6, 7, 8, 9]
+List comprehension:  [(1, 3), (1, 4), (2, 3), (2, 1), (2, 4), (3, 1), (3, 4)]
+Dictionary comprehension:  {0: 10, 1: 11, 2: 12, 3: 13}
+Dictionary comprehension:  {0: 10, 1: 11, 2: 12, 3: 13}
+Dictionary comprehension:  {(0, 0): 0, (0, 1): 1, (1, 0): 1, (1, 1): 2}
+Set comprehension:  {1, 4, 9, 16, 25}
+Set comprehension:  {2, 4, 6, 8, 10}
+Set comprehension, word set:  {'had', 'the', 'thing', 'two.', 'in', 'cat', 'one', 'two', 'and', 'sidekicks,', 'hat'}
+Set comprehension:  {3}
+Hello, Alice!
+Good morning, Bob!
+Charlie is 30 years old and lives in New York.
+David is 25 years old and lives in Los Angeles.
+*args Add numbers:  6
+*args Add numbers:  30
+**kwargs Keyword Arguments:  name: Eve
+**kwargs Keyword Arguments:  age: 28
+**kwargs Keyword Arguments:  occupation: Engineer
+Lambda function, add:  8
+Lambda function, is even:  True
+Lambda function, C to F:  32.0
+Closures:  50
+Closures:  30
+Scopes:  30 20 10
+For Loop: apple
+For Loop: banana
+For Loop: cherry
+For Loop: H
+For Loop: e
+For Loop: l
+For Loop: l
+For Loop: o
+For Loop: 0
+For Loop: 1
+For Loop: 2
+For Loop: 3
+For Loop: 4
+For Loop  Index: 0, Color: red
+For Loop  Index: 1, Color: green
+For Loop  Index: 2, Color: blue
+While Loop  Count is: 0
+While Loop  Count is: 1
+While Loop  Count is: 2
+While Loop  Count is: 3
+While Loop  Count is: 4
+While Loop:  10
+While Loop:  8
+While Loop:  6
+While Loop:  4
+While Loop:  2
+While Loop:  1
+While Loop:  2
+While Loop:  3
+While Loop:  4
+While Loop:  5
+Inside loop
+Inside loop
+Inside loop
+Inside else block
+Conditional: x is greater than 5
+Conditional: y is not greater than 5
+Conditional: z is greater than 5 but not greater than 10
+Conditional: a is greater than 5
+Conditional: a is also less than 15
+Conditional:  Adult
+Conditional: The temperature is comfortable
+Conditional: Name contains 'A'
+Conditional: The list is empty
+Ternary operator:  Minor
+Ternary operator:  10
+Ternary operator:  Stay inside
+Ternary operator:  Odd
+Generator Function:  0
+Generator Function:  1
+Generator Function:  2
+Generator Function:  3
+Generator Function:  4
+Generator Expression:  0
+Generator Expression:  1
+Generator Expression:  4
+Generator Expression:  9
+Generator Expression:  16
+Generator Expression:  Little bunny Foo Foo
+Generator Expression:  I don't want to see you
+Generator Expression:  Scooping up the field mice
+Generator Expression:  And BOPPING them on the head
+Generator Yield From:  0
+Generator Yield From:  1
+Generator Yield From:  2
+Generator Yield From:  3
+Generator Yield From:  4
+Generator Yield From:  5
+Class: Dog:  Buddy
+Instance:  Woof!
+__str__ Person(name='Alice', age=30)
+__str__ Person(name='Alice', age=30)
+__repr__ MyClass(2, 3)
+Inheritance and method overriding  Buddy
+Inheritance and method overriding  Golden Retriever
+Inheritance and method overriding  Woof!
+Try and except  Error: division by zero
+Blah blah blah 1234567890
+Try, except, else and finally: Closing the file.
+Try, except, else and finally: The result is 5.0
+Try, except, else and finally: Execution completed
+Try, except, else and finally: Cannot divide by zero!
+Try, except, else and finally: Execution completed
+Custom Exception: Error: Custom Exception: Value cannot be negative
+5.0
+3.141592653589793
+0.49999999999999994
+0.9124057758442
+9
+Random shuffle:  [3, 1, 5, 4, 2]
+Current date and time:  2025-05-22 14:26:45.107585
+Current date:  2025 5 22
+2025-05-22 14:26:45
+Current working directory:  C:\Users\Susan\OneDrive\Documents\Python\LinkedInQuiz
+Python version:  3.11.3 (tags/v3.11.3:f3909b8, Apr  4 2023, 23:49:59) [MSC v.1934 64 bit (AMD64)]
+OS platform:  win32
+The current directory is: C:\Users\Susan\OneDrive\Documents\Python\LinkedInQuiz
+Numpy array:  [1 2 3]
+File I/O: File written successfully.
+File I/O: File appended successfully.
+File I/O: File content:
+{'Hello good sir and madam.\nThis is a new line.\nThis is another line.\nThis is an appended line.\n'}
+File I/O: Line:  Hello good sir and madam.
+File I/O: Line:  This is a new line.
+File I/O: Line:  This is another line.
+File I/O: Line:  This is an appended line.
+File I/O: All lines in a list
+Hello good sir and madam.
+This is a new line.
+This is another line.
+This is an appended line.
+Original list:  [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+Nested list comprehensions:  [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Nested list, list of squares: [[1, 4, 9], [16, 25, 36], [49, 64, 81]]
+Nested list, filter even numbers: [[2], [4, 6], [8]]
+Nested list comprehensions:  [2, 4, 6, 8]
+Counter Generator:  1
+Counter Generator:  2
+Counter Generator:  3
+Counter Generator:  4
+Counter Generator:  5
+Counter Generator:  6
+Counter Generator:  7
+PS C:\Users\Susan\OneDrive\Documents\Python\LinkedInQuiz> & "C:/Program Files/Python311/python.exe" c:/Users/Susan/OneDrive/Documents/Python/LinkedInQuiz/LinkedInQuiz.py
+Mutable Example (list):  [1, 2, 3, 4]
+I always get A++ hello
+Immutable Example (string):  hello world
+Tuple example (immutable):  (1, 'hello', 3.14)
+List example (mutable):  [1, 'hello', 3.14]
+List example (mutable):  [1, 'hello', 3.14, True]
+Dictionary example (mutable):  {'name': 'Alice', 'age': 30, 'city': 'New York'}
+Dictionary example (mutable):  30
+Sets example (mutable):  {1, 2, 3}
+Sets example (mutable):  {1, 2, 3, 4}
+List comprehension:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+List comprehension:  [6, 7, 8, 9]
+List comprehension:  [(1, 3), (1, 4), (2, 3), (2, 1), (2, 4), (3, 1), (3, 4)]
+Dictionary comprehension:  {0: 10, 1: 11, 2: 12, 3: 13}
+Dictionary comprehension:  {0: 10, 1: 11, 2: 12, 3: 13}
+Dictionary comprehension:  {(0, 0): 0, (0, 1): 1, (1, 0): 1, (1, 1): 2}
+Set comprehension:  {1, 4, 9, 16, 25}
+Set comprehension:  {2, 4, 6, 8, 10}
+Set comprehension, word set:  {'cat', 'hat', 'the', 'had', 'two', 'in', 'one', 'sidekicks,', 'thing', 'two.', 'and'}
+Set comprehension:  {3}
+Hello, Alice!
+Good morning, Bob!
+Charlie is 30 years old and lives in New York.
+David is 25 years old and lives in Los Angeles.
+*args Add numbers:  6
+*args Add numbers:  30
+**kwargs Keyword Arguments:  name: Eve
+**kwargs Keyword Arguments:  age: 28
+**kwargs Keyword Arguments:  occupation: Engineer
+Lambda function, add:  8
+Lambda function, is even:  True
+Lambda function, C to F:  32.0
+Closures:  50
+Closures:  30
+Scopes:  30 20 10
+For Loop: apple
+For Loop: banana
+For Loop: cherry
+For Loop: H
+For Loop: e
+For Loop: l
+For Loop: l
+For Loop: o
+For Loop: 0
+For Loop: 1
+For Loop: 2
+For Loop: 3
+For Loop: 4
+For Loop  Index: 0, Color: red
+For Loop  Index: 1, Color: green
+For Loop  Index: 2, Color: blue
+While Loop  Count is: 0
+While Loop  Count is: 1
+While Loop  Count is: 2
+While Loop  Count is: 3
+While Loop  Count is: 4
+While Loop:  10
+While Loop:  8
+While Loop:  6
+While Loop:  4
+While Loop:  2
+While Loop:  1
+While Loop:  2
+While Loop:  3
+While Loop:  4
+While Loop:  5
+Inside loop
+Inside loop
+Inside loop
+Inside else block
+Conditional: x is greater than 5
+Conditional: y is not greater than 5
+Conditional: z is greater than 5 but not greater than 10
+Conditional: a is greater than 5
+Conditional: a is also less than 15
+Conditional:  Adult
+Conditional: The temperature is comfortable
+Conditional: Name contains 'A'
+Conditional: The list is empty
+Ternary operator:  Minor
+Ternary operator:  10
+Ternary operator:  Stay inside
+Ternary operator:  Odd
+Generator Function:  0
+Generator Function:  1
+Generator Function:  2
+Generator Function:  3
+Generator Function:  4
+Generator Expression:  0
+Generator Expression:  1
+Generator Expression:  4
+Generator Expression:  9
+Generator Expression:  16
+Generator Expression:  Little bunny Foo Foo
+Generator Expression:  I don't want to see you
+Generator Expression:  Scooping up the field mice
+Generator Expression:  And BOPPING them on the head
+Generator Yield From:  0
+Generator Yield From:  1
+Generator Yield From:  2
+Generator Yield From:  3
+Generator Yield From:  4
+Generator Yield From:  5
+Class: Dog:  Buddy
+Instance:  Woof!
+__str__ Person(name='Alice', age=30)
+__str__ Person(name='Alice', age=30)
+__repr__ MyClass(2, 3)
+Inheritance and method overriding  Buddy
+Inheritance and method overriding  Golden Retriever
+Inheritance and method overriding  Woof!
+Try and except  Error: division by zero
+Blah blah blah 1234567890
+Try, except, else and finally: Closing the file.
+Try, except, else and finally: The result is 5.0
+Try, except, else and finally: Execution completed
+Try, except, else and finally: Cannot divide by zero!
+Try, except, else and finally: Execution completed
+Custom Exception: Error: Custom Exception: Value cannot be negative
+5.0
+3.141592653589793
+0.49999999999999994
+0.7420317217216926
+3
+Random shuffle:  [5, 3, 1, 4, 2]
+Current date and time:  2025-05-22 14:32:55.147987
+Current date:  2025 5 22
+2025-05-22 14:32:55
+Current working directory:  C:\Users\Susan\OneDrive\Documents\Python\LinkedInQuiz
+Python version:  3.11.3 (tags/v3.11.3:f3909b8, Apr  4 2023, 23:49:59) [MSC v.1934 64 bit (AMD64)]
+OS platform:  win32
+The current directory is: C:\Users\Susan\OneDrive\Documents\Python\LinkedInQuiz
+Numpy array:  [1 2 3]
+File I/O: File written successfully.
+File I/O: File appended successfully.
+File I/O: File content:
+{'Hello good sir and madam.\nThis is a new line.\nThis is another line.\nThis is an appended line.\n'}
+File I/O: Line:  Hello good sir and madam.
+File I/O: Line:  This is a new line.
+File I/O: Line:  This is another line.
+File I/O: Line:  This is an appended line.
+File I/O: All lines in a list
+Hello good sir and madam.
+This is a new line.
+This is another line.
+This is an appended line.
+Original list:  [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+Nested list comprehensions:  [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Nested list, list of squares: [[1, 4, 9], [16, 25, 36], [49, 64, 81]]
+Nested list, filter even numbers: [[2], [4, 6], [8]]
+Nested list comprehensions:  [2, 4, 6, 8]
+Counter Generator:  1
+Counter Generator:  2
+Counter Generator:  3
+Counter Generator:  4
+Counter Generator:  5
+Counter Generator:  6
+Counter Generator:  7
+Fibonacci Generator:  0
+Fibonacci Generator:  1
+Fibonacci Generator:  1
+Fibonacci Generator:  2
+Fibonacci Generator:  3
+Fibonacci Generator:  5
+Fibonacci Generator:  8
+Fibonacci Generator:  13
+Fibonacci Generator:  21
+Fibonacci Generator:  34
+This is the last line (993) in the "large_file.text"
